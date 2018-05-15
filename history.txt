@@ -1,0 +1,500 @@
+  135  cd Google\ Drive/
+  136  ls
+  137  ls
+  138  cd ECs/Hackathons\ Attended/
+  139  ls
+  140  cd HackDartmouth/powerpose/
+  141  ls
+  142  atom real_time_object_detection2.py 
+  143  ls
+  144  nano README.md 
+  145  python3 real_time_object_detection2.py -p proto.txt -m model.caffemodel -c .8
+  146  ls
+  147  cd
+  148  ls
+  149  cd Desktop/
+  150  ls
+  151  python3 noobz.py 
+  152  rm noobz.py 
+  153  python redditimage.py 
+  154  python redditimage.py 
+  155  python redditimage.py 
+  156  python redditimage.py 
+  157  python redditimage.py 
+  158  python redditimage.py 
+  159  python redditimage.py 
+  160  python redditimage.py 
+  161  python redditimage.py 
+  162  python redditimage.py 
+  163  python redditimage.py 
+  164  python redditimage.py 
+  165  python redditimage.py 
+  166  python redditimage.py 
+  167  ls
+  168  mv redditimage.py evandayONE.py
+  169  ls
+  170  nano evandayONE.py 
+  171  ls
+  172  ls
+  173  clear
+  174  ls
+  175  open TaxReturn
+  176  open TaxReturn.pdf 
+  177  ls
+  178  pwd
+  179  cd
+  180  ls
+  181  cd Google\ Drive/Professional/Zia\ Research/__Lead\ 2018\ commonK/Codebase/
+  182  ls
+  183  pwd
+  184  ls
+  185  cd module3/
+  186  ls
+  187  cd relation_extraction/
+  188  ls
+  189  atom pronouns.py 
+  190  pwd
+  191  cd /usr/local/Cellar/python3/3.6.4_2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/
+  192  ls
+  193  pip install --upgrade httplib2
+  194  ls
+  195  cd Desktop/
+  196  ls
+  197  atom calendar.py
+  198  ls
+  199  mv client_id.jsonpip3 install --upgrade google-api-python-client
+  200  pip3 install --upgrade google-api-python-client
+  201  pip install --upgrade google-api-python-client
+  202  python3 calendar.py 
+  203  pip install --upgrade google-api-python-client
+  204  sudo easy_install nose
+  205  sudo easy_install tornado
+  206  sudo -H pip install --ignore-installed matplotlib
+  207  pip install --upgrade google-api-python-client
+  208  python3 calendar.py 
+  209  python calendar.py 
+  210  sudo pip install --upgrade google-api-python-client
+  211  python calendar.py 
+  212  python calendar.py 
+  213  pip freeze
+  214  virutalenv --version
+  215  venv --version
+  216  venv
+  217  virtualevn
+  218  virtualenv
+  219  ls
+  220  mkdir calendar/
+  221  mv calendar.py calendar/
+  222  mv client_id.json calendar/
+  223  ls
+  224  cd calendar
+  225  ls
+  226  pip install -t lib google-api-python-client
+  227  ls
+  228  sudo pip uninstall apiclient
+  229  sudo pip uninstall apiclient
+  230  sudo pip uninstall apiclient -H
+  231  pip install --upgrade pip
+  232  pip install pip
+  233  sudo pip install --upgrade pip
+  234  pip
+  235  ls
+  236  sudo pip uninstall apiclient
+  237  sudo -H pip uninstall apiclient
+  238  python --version
+  239  conda
+  240  pip install --force-reinstall google-api-python-client
+  241  sudo pip install --force-reinstall google-api-python-client
+  242  ls
+  243  python calendar.py 
+  244  ls
+  245  cd lib/
+  246  ls
+  247  cd googleapiclient/ls
+  248  cd googleapiclient/
+  249  ls
+  250  nano discovery.py
+  251  atom discovery
+  252  ls
+  253  atom discovery.py
+  254  cd ..
+  255  ls
+  256  cd ..
+  257  ls
+  258  ls
+  259  ls
+  260  cd lib/
+  261  ls
+  262  mv six.pyc ..
+  263  ls
+  264  cd ..
+  265  ls
+  266  ls
+  267  cd lib/
+  268  ls
+  269  mv * ..
+  270  ls
+  271  cd ..
+  272  ls
+  273  python calendar.py
+  274  python3 calendar.py
+  275  sudo easy_install --upgrade google-api-python-client
+  276  ls
+  277  python calendar.py
+  278  python calendar.py
+  279  python calendar.py
+  280  python calendar.py
+  281  ls
+  282  atom calendar.py
+  283  atom calendar.py
+  284  ls
+  285  python calendar.py
+  286  python3 calendar.py
+  287  python3 calendar.py
+  288  ls
+  289  ls
+  290  cd Desktop/
+  291  ls
+  292  mv fakedata.py ../Google\ Drive/Professional/Zia\ Research/__Lead\ 2018\ commonK/Codebase/sprint1/
+  293  git .
+  294  git --help
+  295  git init
+  296  cd ../Google\ Drive/Professional/Zia\ Research/__Lead\ 2018\ commonK/Codebase/sprint1/
+  297  ls
+  298  git .
+  299  git --helpp
+  300  git --help
+  301  git branch hackathon
+  302  ls
+  303  git push
+  304  ls
+  305  mv fakedata.py ../
+  306  ls
+  307  git pull
+  308  ls
+  309  cd ..
+  310  ls
+  311  mv fakedata.py sprint1/
+  312  ls
+  313  cd sprint1/
+  314  ls
+  315  git push
+  316  ls
+  317  /Users/mjafri/Google\ Drive/Professional/Zia\ Research/__Lead\ 2018\ commonK/Codebase/sprint1/
+  318  cd /Users/mjafri/Google\ Drive/Professional/Zia\ Research/__Lead\ 2018\ commonK/Codebase/sprint1/api.
+  319  cd /Users/mjafri/Google\ Drive/Professional/Zia\ Research/__Lead\ 2018\ commonK/Codebase/sprint1/api/
+  320  ls
+  321  cd ..
+  322  ls
+  323  ls
+  324  gls
+  325  ls
+  326  git init
+  327  git push 
+  328  ls
+  329  cd Desktop/ProjectDash/ls
+  330  cd Desktop/ProjectDash/
+  331  ls
+  332  cd Setup/Initializations/
+  333  ls
+  334  python ver5mjdash.py 
+  335  pip install tkinter
+  336  pip install python-tk
+  337  pip3 pip install python-tk
+  338  pip3 install python-tk
+  339  pip install sudo apt-get install python-tk
+  340  sudo apt-get install python-tk
+  341  sudo apt-get install python-tk # python2
+  342  brew install python-tk
+  343  brew install tcl-tk
+  344  python ver5mjdash.py 
+  345  brew uninstall python
+  346  python
+  347  brew install python --with-tcl-tk
+  348  python ver5mjdash.py 
+  349  python ver5mjdash.py 
+  350  python ver5mjdash.py 
+  351  python ver5mjdash.py 
+  352  ls
+  353  cd ..
+  354  ls
+  355  cd ..
+  356  ls
+  357  cd Us/
+  358  ls
+  359  ls
+  360  pwd
+  361  pwd
+  362  python ver5mjdash.py 
+  363  ls
+  364  cd ..
+  365  ls
+  366  cd Setup/Initializations/
+  367  ls
+  368  python ver5mjdash.py 
+  369  python ver5mjdash.py 
+  370  ls
+  371  cd Downloads/
+  372  ls
+  373  cd uneaux\ Slack\ export\ May\ 9\ 2018/
+  374  ls
+  375  ls
+  376  ls
+  377  ls
+  378  ls
+  379  open sprint
+  380  json
+  381  ls
+  382  cd website/
+  383  ls
+  384  pwd
+  385  cd ..
+  386  python immortalize.py 
+  387  python immortalize.py 
+  388  python immortalize.py 
+  389  python immortalize.py 
+  390  python immortalize.py 
+  391  python immortalize.py 
+  392  python immortalize.py 
+  393  python immortalize.py 
+  394  python immortalize.py 
+  395  python immortalize.py 
+  396  python immortalize.py 
+  397  python immortalize.py 
+  398  python immortalize.py 
+  399  python immortalize.py 
+  400  python immortalize.py 
+  401  python immortalize.py 
+  402  python immortalize.py 
+  403  python immortalize.py 
+  404  python immortalize.py 
+  405  python immortalize.py 
+  406  python immortalize.py 
+  407  python immortalize.py 
+  408  python immortalize.py 
+  409  python immortalize.py 
+  410  python immortalize.py 
+  411  python immortalize.py 
+  412  python immortalize.py 
+  413  python immortalize.py 
+  414  python immortalize.py 
+  415  python immortalize.py 
+  416  python immortalize.py 
+  417  python immortalize.py 
+  418  python immortalize.py 
+  419  python immortalize.py 
+  420  python immortalize.py 
+  421  python immortalize.py 
+  422  python immortalize.py 
+  423  clear
+  424  python immortalize.py 
+  425  python immortalize.py 
+  426  python immortalize.py 
+  427  python immortalize.py 
+  428  python immortalize.py 
+  429  python immortalize.py 
+  430  python immortalize.py 
+  431  python immortalize.py  mohib
+  432  python immortalize.py  mohib
+  433  ls
+  434  mv immortalize.py ../
+  435  ls
+  436  cd ..
+  437  ls
+  438  nano immortalize.py cd
+  439  ls
+  440  cd 
+  441  ls
+  442  cd Desktop/
+  443  ls
+  444  python3 immortalize.py uneaux\ Slack\ export\ May\ 9\ 2018/
+  445  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  446  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  447  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  448  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  449  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  450  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  451  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  452  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  453  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  454  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  455  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  456  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  457  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/
+  458  python3 immortalize.py Mohib uneaux\ Slack\ export\ May\ 9\ 2018/[A
+  459  ls
+  460  mv uneaux\ Slack\ export\ May\ 9\ 2018/ archive/
+  461  ls
+  462  python3 immortalize.py Mohib archive/
+  463  python3 immortalize.py Mohib archive/
+  464  python3 immortalize.py Mohib archive/
+  465  python3 immortalize.py Mohib archive/
+  466  python3 immortalize.py Mohib archive/
+  467  python3 immortalize.py Mohib archive/
+  468  python3 immortalize.py Mohib archive/
+  469  python3 immortalize.py Mohib archive/
+  470  python3 immortalize.py Mohib archive/
+  471  python3 immortalize.py Mohib archive/
+  472  aarvc
+  473  python3 immortalize.py Mohib archive/
+  474  python3 immortalize.py Mohib archive/
+  475  python3 immortalize.py Mohib archive/
+  476  python3 immortalize.py Mohib archive/
+  477  python3 immortalize.py Mohib archive/
+  478  python3 immortalize.py Mohib archive/
+  479  python3 immortalize.py Mohib archive/
+  480  python3 immortalize.py Mohib archive/
+  481  python3 immortalize.py Mohib archive/
+  482  python3 immortalize.py Mohib archive/
+  483  python3 immortalize.py Mohib archive/
+  484  python3 immortalize.py Mohib archive/
+  485  python3 immortalize.py Mohib archive/
+  486  python3 immortalize.py Mohib archive/
+  487  python3 immortalize.py Mohib archive/
+  488  python3 immortalize.py Mohib archive/
+  489  python3 immortalize.py Mohib archive/
+  490  python3 immortalize.py Mohib archive/
+  491  python3 immortalize.py Mohib archive/
+  492  python3 immortalize.py Mohib archive/
+  493  python3 immortalize.py Mohib archive/
+  494  python3 immortalize.py Mohib archive/
+  495  python3 immortalize.py Mohib archive/
+  496  python3 immortalize.py Mohib ../Desktop/archive/
+  497  python3 immortalize.py Mohib ../Desktop/archive/
+  498  python3 immortalize.py Mohib archive/
+  499  python3 immortalize.py Mohib archive/
+  500  python3 immortalize.py Mohib archive/
+  501  ls
+  502  python weather.py 
+  503  python weather.py "Los Angeles" CA 12
+  504  python weather.py "Los Angeles" CA 24
+  505  python weather.py "Los Angeles" CA 24
+  506  python app.py 
+  507  python app.py 
+  508  python app.py 
+  509  python app.py 
+  510  python app.py 
+  511  pip Flask --version
+  512  pip version Flask
+  513  pip freeze
+  514  python3 app.py 
+  515  python app.py 
+  516  python app.py 
+  517  ls
+  518  venv
+  519  python venv
+  520  pip venv
+  521  deploy
+  522  pip freeze
+  523  pipenv
+  524  python --version
+  525  $ pip install --user pipenv
+  526  $ pip install --user pipenv
+  527  pip install --user pipenv
+  528  ls
+  529  pipenv install requests
+  530  pipenv
+  531  pip3env
+  532  pip install virtualenv
+  533  virtualenv --version
+  534  pip install virtualenv
+  535  pip3 install virtualenv
+  536  pip2.7 install virtualenv
+  537  virtualenv
+  538  pip install virtualenv
+  539  pip reinstall virtualenv
+  540  virtualenv
+  541  sudo /usr/bin/easy_install virtualenv
+  542  pip uninstall virtualenv
+  543  sudo pip install virtualenv
+  544  venv
+  545  virtualenv
+  546  ls
+  547  cd ..
+  548  ls
+  549  virtualenv myweather
+  550  ls
+  551  cd myweather/
+  552  ls
+  553  nano pip-selfcheck.json 
+  554  ls
+  555  cd include/
+  556  l
+  557  sls
+  558  ls
+  559  cd python2.7
+  560  ls
+  561  nano Python
+  562  nano Python.h
+  563  cd ..
+  564  ls
+  565  cd ..
+  566  ls
+  567  ls
+  568  cd ..
+  569  ls
+  570  source my_project/bin/activate
+  571  source myweather/bin/activate
+  572  pip freeze
+  573  ls
+  574  cd myweather/
+  575  ls
+  576  pip freeze
+  577  ls
+  578  cd
+  579  ls
+  580  cd Google\ Drive/
+  581  ls
+  582  ls
+  583  deactivate
+  584  ls
+  585  cd Coding\ Projects/
+  586  ls
+  587  cd myweather/
+  588  ls
+  589  cd ..
+  590  ls
+  591  cd weather/
+  592  ls
+  593  mv * ../myweather/
+  594  ls
+  595  cd ..
+  596  ls
+  597  cd myweather/
+  598  ls
+  599  python weather.py
+  600  python app.py 
+  601  pip freeze
+  602  cd ..
+  603  ls
+  604  source my_project/bin/activate
+  605  source myweather/bin/activate
+  606  ls
+  607  cd myweather/
+  608  ls
+  609  pip freeze > requirements.txt
+  610  deactivate
+  611  ls
+  612  ls
+  613  cd ..
+  614  ls
+  615  cd myweather/
+  616  ls
+  617  nano requirements.txt 
+  618  cd ..
+  619  ls
+  620  mv myweather/ /Users/mjafri/Desktop/
+  621  cd /Users/mjafri/Desktop/
+  622  ls
+  623  source myweather/bin/activate
+  624  ls
+  625  cd myweather/
+  626  ls
+  627  pip freeze
+  628  which python
+  629  which python3
+  630  which python2
+  631  which python2.7
+  632  pyenv
+  633  history
+  634  history >> history.txt
