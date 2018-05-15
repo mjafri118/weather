@@ -3,9 +3,9 @@ An elegant weather forecast visualization.
 
 ## Samples
 
-[logo]: https://github.com/mjafri118/weather/blob/master/graphs/Davis_Tuesday%2C_May_15-2.png "Sample 24"
+![Sample](https://raw.githubusercontent.com/mjafri118/weather/master/graphs/Davis_Tuesday%2C_May_15-21.png "Sample 12")
 
-[logo]: hhttps://github.com/mjafri118/weather/blob/master/graphs/Davis_Tuesday%2C_May_15-21.png "Sample 12"
+![Sample](https://raw.githubusercontent.com/mjafri118/weather/master/graphs/Davis_Tuesday%2C_May_15-2.png "Sample 24")
 
 ## Installation
 1. `pip install -r requirements.txt`
